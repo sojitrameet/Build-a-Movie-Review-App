@@ -1,0 +1,12 @@
+textarea
+{
+  width: 100%;
+}
+.btnn
+{
+  background-color: green;
+  color: whitesmoke;
+  border: none;
+  border-radius: 15px;
+  padding: 10px 12px;
+}
